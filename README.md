@@ -131,7 +131,7 @@
   
 ### 👁️ 访问统计
 
-<img src="https://komarev.com/ghpvc/?username=zxj-2023&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=zxj-2023&label=访问次数&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
