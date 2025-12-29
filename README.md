@@ -30,58 +30,24 @@
 
 ---
 
-## 🔥 GitHub 连续贡献统计
-
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com/?user=zxj-2023&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
-
-</div>
-
----
-
-## 🏆 GitHub 成就
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=zxj-2023&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## �💻 技术栈与工具
 
 <div align="center">
 
 ### 编程语言
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" alt="Languages" />
 
 ### 前端技术
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend" />
 
 ### 后端技术
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" alt="Backend" />
 
 ### AI & 机器学习
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge&logo=openai&logoColor=white)
-
-### Agent 开发
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=graphql&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-00A67E?style=for-the-badge&logo=protocol&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI/ML" />
 
 ### 开发工具
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,docker,anaconda,vscode,linux&theme=dark" alt="Tools" />
 
 </div>
 
