@@ -16,6 +16,7 @@
 - 📊 对后端开发和量化交易充满热情
 - 🌐 个人博客：[zxj-2023.github.io](https://zxj-2023.github.io/)
 
+### 📫 联系我
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zxj-2023)
@@ -27,13 +28,11 @@
 
 ---
 
-## 📊 GitHub 统计
+## 🎯 感兴趣的方向
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats-rose-iota-84.vercel.app/api?username=zxj-2023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats-rose-iota-84.vercel.app/api/top-langs/?username=zxj-2023&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+🤖 **Agent 应用开发** | 💻 **后端开发** | 📈 **量化交易**
 
 </div>
 
@@ -57,11 +56,13 @@
 
 ---
 
-## 🎯 感兴趣的方向
+## 📊 GitHub 统计
 
 <div align="center">
+  
+<img height="180em" src="https://github-readme-stats-rose-iota-84.vercel.app/api?username=zxj-2023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 
-🤖 **Agent 应用开发** | 💻 **后端开发** | 📈 **量化交易**
+<img height="180em" src="https://github-readme-stats-rose-iota-84.vercel.app/api/top-langs/?username=zxj-2023&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
