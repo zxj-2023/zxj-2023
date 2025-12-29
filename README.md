@@ -18,38 +18,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zxj-2023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxj-2023&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-## 🔥 GitHub 连续贡献统计
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zxj-2023&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
-
-</div>
-
----
-
-## 🏆 GitHub 成就
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=zxj-2023&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 💻 技术栈与工具
 
 <div align="center">
@@ -97,16 +65,6 @@
 
 ---
 
-## 📈 贡献图表
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxj-2023&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F97F7&line=3F97F7&point=FFFFFF" alt="Contribution Graph"/>
-
-</div>
-
----
-
 ## 🤝 联系方式
 
 <div align="center">
@@ -115,26 +73,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zxj2902065320@163.com)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://zxj-2023.github.io/)
 [![QQ](https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=2902065320&site=qq&menu=yes)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 随机开发语录
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-  
-### 👁️ 访问统计
-
-<img src="https://komarev.com/ghpvc/?username=zxj-2023&label=访问次数&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
