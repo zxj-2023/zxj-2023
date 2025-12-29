@@ -16,9 +16,18 @@
 - 📊 对后端开发和量化交易充满热情
 - 🌐 个人博客：[zxj-2023.github.io](https://zxj-2023.github.io/)
 
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zxj-2023)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zxj2902065320@163.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://zxj-2023.github.io/)
+[![QQ](https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=2902065320&site=qq&menu=yes)
+
+</div>
+
 ---
 
-## � GitHub 统计
+## 📊 GitHub 统计
 
 <div align="center">
   
@@ -30,24 +39,19 @@
 
 ---
 
-## �💻 技术栈与工具
+## 💻 技术栈与工具
 
 <div align="center">
 
-### 编程语言
-<img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" alt="Languages" />
+| 分类 | 技术 |
+|:---:|:---:|
+| **编程语言** | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" /> |
+| **前端技术** | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" /><img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="40" /> |
+| **后端技术** | <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" /><img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" height="40" /> |
+| **AI & 机器学习** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="40" /> |
+| **开发工具** | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" /><img src="https://skillicons.dev/icons?i=git,vscode,anaconda,linux&theme=dark" height="40" /> |
 
-### 前端技术
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend" />
-
-### 后端技术
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" alt="Backend" />
-
-### AI & 机器学习
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI/ML" />
-
-### 开发工具
-<img src="https://skillicons.dev/icons?i=git,docker,anaconda,vscode,linux&theme=dark" alt="Tools" />
+<img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
 
 </div>
 
@@ -58,19 +62,6 @@
 <div align="center">
 
 🤖 **Agent 应用开发** | 💻 **后端开发** | 📈 **量化交易**
-
-</div>
-
----
-
-## 🤝 联系方式
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zxj-2023)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zxj2902065320@163.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://zxj-2023.github.io/)
-[![QQ](https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=2902065320&site=qq&menu=yes)
 
 </div>
 
