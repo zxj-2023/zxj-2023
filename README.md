@@ -62,7 +62,7 @@
   
 <img height="180em" src="https://github-readme-stats-rose-iota-84.vercel.app/api?username=zxj-2023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats-rose-iota-84.vercel.app/api/top-langs/?username=zxj-2023&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook,html,css"/>
+<img height="180em" src="https://github-readme-stats-rose-iota-84.vercel.app/api/top-langs/?username=zxj-2023&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook,html,css,typescript"/>
 
 </div>
 
