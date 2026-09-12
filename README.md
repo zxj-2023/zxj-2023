@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 你好，我是 zxj-2023!
+# 👋 你好，我是 zxj-2023
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F97F7&center=true&vCenter=true&multiline=false&width=600&height=70&lines=欢迎来到我的+GitHub+主页!;人工智能专业学生;Agent+应用开发者;对+AI+技术充满热情!" alt="Typing SVG" />
 
@@ -17,6 +17,7 @@
 - 🌐 个人博客：[zxj-2023.github.io](https://zxj-2023.github.io/)
 
 ### 📫 联系我
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zxj-2023)
@@ -43,7 +44,7 @@
 <div align="center">
 
 | 分类 | 技术 |
-|:---:|:---:|
+| :---: | :---: |
 | **编程语言** | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" /> |
 | **前端技术** | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" /><img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="40" /> |
 | **后端技术** | <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" /><img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" height="40" /> |
@@ -72,7 +73,7 @@
 
 <div align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxj-2023&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F97F7&line=3F97F7&point=FFFFFF" alt="Contribution Graph"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=zxj-2023&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F97F7&line=3F97F7&point=FFFFFF" alt="Contribution Graph"/>
 
 </div>
 
