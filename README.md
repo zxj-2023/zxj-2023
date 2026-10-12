@@ -2,7 +2,7 @@
   
 # 👋 你好，我是 zxj-2023
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F97F7&center=true&vCenter=true&multiline=false&width=600&height=70&lines=欢迎来到我的+GitHub+主页!;人工智能专业学生;Agent+应用开发者;对+AI+技术充满热情!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F97F7&center=true&vCenter=true&multiline=false&width=600&height=70&lines=欢迎来到我的+GitHub+主页!;Incoming+M.S.+Student+@+USTC+BDAA;Focusing+on+Agent+Harness+%26+Infra;对前沿智能体系统充满热情!" alt="Typing SVG" />
 
 </div>
 
@@ -10,10 +10,11 @@
 
 ## 🚀 关于我
 
-- 🎓 南京师范大学 计算机与电子信息学院 人工智能专业 (2023-2027)
-- 💻 对新兴的 AI 技术有着浓烈兴趣，乐于积极尝试
-- 🤖 专注于 Agent 应用开发，探索智能代理的无限可能
-- 📊 对后端开发和量化交易充满热情
+- 🎓 **中国科学技术大学 (USTC)** · 大数据分析与应用安徽省重点实验室 (BDAA) · 硕士研究生 (即将入学)
+- 🏫 **南京师范大学 (NNU)** · 计算机与电子信息学院 · 人工智能专业 本科 (2023-2027)
+- 🔬 专注于 **Agent Harness**：智能体能力评测评估基准（Benchmarks & Evaluation）、长程交互评测与能力边界验证
+- ⚙️ 致力于 **Agent Infra**：智能体运行时环境（Runtime / Sandbox）、上下文管理、高并发调度与底层基础设施
+- 💻 对前沿 AI 与系统架构保持浓厚兴趣，乐于探索智能体系统的工程落地与前沿研究
 - 🌐 个人博客：[zxj-2023.github.io](https://zxj-2023.github.io/)
 
 ### 📫 联系我
@@ -33,7 +34,7 @@
 
 <div align="center">
 
-🤖 **Agent 应用开发** | 💻 **后端开发** | 📈 **量化交易**
+🔬 **Agent Harness & Evaluation** | ⚙️ **Agent Infrastructure & Runtime** | 🤖 **Autonomous Agent Systems**
 
 </div>
 
@@ -48,8 +49,8 @@
 | **编程语言** | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" /> |
 | **前端技术** | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" /><img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="40" /> |
 | **后端技术** | <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" /><img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" height="40" /> |
-| **AI & 机器学习** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="40" /> |
-| **开发工具** | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" /><img src="https://skillicons.dev/icons?i=git,vscode,anaconda,linux&theme=dark" height="40" /> |
+| **AI & Agent** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="40" /> |
+| **系统与开发工具** | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" /><img src="https://skillicons.dev/icons?i=git,vscode,anaconda,linux&theme=dark" height="40" /> |
 
 <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
 
