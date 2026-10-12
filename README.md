@@ -1,10 +1,14 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,45&height=180&section=header&text=zxj-2023&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Incoming%20M.S.%20@%20USTC%20IAT%20%7C%20Agent%20Harness%20%26%20Infra&subFontSize=16&subTextY=75" width="100%"/>
+</div>
+
 ## 🚀 关于我
 
-- 🎓 **2028 - 2030** 中国科学技术大学 先进技术研究院 · 人工智能 · 认知智能全国重点实验室
+- 🎓 **2028 - 2030** 中国科学技术大学 先进技术研究院 · 人工智能 · 认知智能全国重点实验室 (硕士研究生)
 - 🏫 **2023 - 2027** 南京师范大学 计算机与电子信息学院 · 人工智能专业 (GPA: 3.88/5.0, Rank: 2/55)
-- 🔬 专注于 **Agent Harness**：智能体能力评测评估基准（Benchmarks & Evaluation）、长程交互评测与能力边界验证
-- ⚙️ 致力于 **Agent Infra**：智能体运行时环境（Runtime / Sandbox）、上下文管理、高并发调度与底层基础设施
-- 💻 对前沿 AI 与系统架构保持浓厚兴趣，乐于探索智能体系统的工程落地与前沿研究
+- 🔬 专注于 **Agent Harness**：智能体能力基准评测体系（Benchmarks & Evaluation）、长程交互评测与能力边界验证
+- ⚙️ 致力于 **Agent Infra**：智能体运行时环境与沙箱隔离（Runtime / Sandbox）、上下文持久化管理、高并发调度与底层基建
+- 💻 对前沿 AI 与系统架构保持浓厚兴趣，乐于探索智能体系统的工程落地与学术前沿
 - 🌐 个人博客：[zxj-2023.github.io](https://zxj-2023.github.io/)
 - 📧 电子邮箱：[zxj2902065320@163.com](mailto:zxj2902065320@163.com)
 
@@ -25,7 +29,9 @@
 
 <div align="center">
 
-🔬 **Agent Harness & Evaluation** | ⚙️ **Agent Infrastructure & Runtime** | 🤖 **Autonomous Agent Systems**
+| 🔬 Agent Harness & Evaluation | ⚙️ Agent Infrastructure & Runtime |
+| :--- | :--- |
+| • 智能体基准评测体系（Benchmarks & Eval）<br>• 真实动态交互环境与长程任务仿真<br>• 工具调用鲁棒性验证与自动对抗评测 | • 执行环境与安全沙箱（Runtime / Sandbox）<br>• 上下文持久化与 Memory 管理<br>• 多 Agent 协同中间件与并发调度底座 |
 
 </div>
 
@@ -35,15 +41,28 @@
 
 <div align="center">
 
-| 分类 | 技术 |
-| :---: | :---: |
-| **编程语言** | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" /> |
-| **前端技术** | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" /><img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="40" /> |
-| **后端技术** | <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" /><img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" height="40" /> |
-| **AI & Agent** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="40" /> |
-| **系统与开发工具** | <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" /><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" /><img src="https://skillicons.dev/icons?i=git,vscode,anaconda,linux&theme=dark" height="40" /> |
+#### Core Languages
+[![Languages](https://skillicons.dev/icons?i=python,cpp,c,js,ts,bash&theme=dark)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
+#### AI & Agent Systems
+[![AI & Frameworks](https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi&theme=dark)](https://skillicons.dev)
+
+#### Infra, Runtime & Environments
+[![Infra & Tools](https://skillicons.dev/icons?i=linux,docker,git,github,nginx,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🐍 贡献动态
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxj-2023/zxj-2023/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zxj-2023/zxj-2023/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/zxj-2023/zxj-2023/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -56,16 +75,6 @@
 <img height="180em" src="https://github-readme-stats-rose-iota-84.vercel.app/api?username=zxj-2023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 
 <img height="180em" src="https://github-readme-stats-rose-iota-84.vercel.app/api/top-langs/?username=zxj-2023&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook,html,css,typescript"/>
-
-</div>
-
----
-
-## 📈 贡献图表
-
-<div align="center">
-  
-<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=zxj-2023&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F97F7&line=3F97F7&point=FFFFFF" alt="Contribution Graph"/>
 
 </div>
 
