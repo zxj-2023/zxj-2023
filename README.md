@@ -1,13 +1,3 @@
-<div align="center">
-  
-# 👋 你好，我是 zxj-2023
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F97F7&center=true&vCenter=true&multiline=false&width=600&height=70&lines=欢迎来到我的+GitHub+主页!;Incoming+M.S.+Student+@+USTC+BDAA;Focusing+on+Agent+Harness+%26+Infra;对前沿智能体系统充满热情!" alt="Typing SVG" />
-
-</div>
-
----
-
 ## 🚀 关于我
 
 - 🎓 **中国科学技术大学 (USTC)** · 大数据分析与应用安徽省重点实验室 (BDAA) · 硕士研究生 (即将入学)
