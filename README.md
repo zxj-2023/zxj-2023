@@ -11,6 +11,7 @@
 - 💻 对前沿 AI 与系统架构保持浓厚兴趣，乐于探索智能体系统的工程落地与学术前沿
 - 🌐 个人博客：[zxj-2023.github.io](https://zxj-2023.github.io/)
 - 📧 电子邮箱：[zxj2902065320@163.com](mailto:zxj2902065320@163.com)
+- 💬 微信号：`zxj18114477496`
 
 ### 📫 联系我
 
@@ -18,6 +19,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zxj-2023)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zxj2902065320@163.com)
+![WeChat](https://img.shields.io/badge/WeChat-zxj18114477496-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://zxj-2023.github.io/)
 [![小红书](https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-8995241297-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com)
 
