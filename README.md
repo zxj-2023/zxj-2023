@@ -7,7 +7,9 @@
 - 🎓 **2028 - 2030** 中国科学技术大学 先进技术研究院 · 人工智能 · 认知智能全国重点实验室 (硕士研究生)
 - 🏫 **2023 - 2027** 南京师范大学 计算机与电子信息学院 · 人工智能专业 (GPA: 3.88/5.0, Rank: 2/55)
 - 🔬 专注于 **Agent Harness**：智能体能力基准评测体系（Benchmarks & Evaluation）、长程交互评测与能力边界验证
-- ⚙️ 致力于 **Agent Infra**：智能体运行时环境与沙箱隔离（Runtime / Sandbox）、上下文持久化管理、高并发调度与底层基建
+- ☁️ 致力于 **Cloud Agent Infra**：基于云原生与 Kubernetes (K8s) 的分布式智能体基础设施、安全沙箱隔离与集群调度
+- 📱 探索 **On-Device Infra**：端侧小模型 (SLM) 高效部署与移动端 KV Cache 显存优化
+- 🧠 关注 **Agent RL**：持续跟进智能体强化学习学术前沿，探索环境反馈驱动的自主演化与决策对齐
 - 💻 对前沿 AI 与系统架构保持浓厚兴趣，乐于探索智能体系统的工程落地与学术前沿
 - 🌐 个人博客：[zxj-2023.github.io](https://zxj-2023.github.io/)
 - 📧 电子邮箱：[zxj2902065320@163.com](mailto:zxj2902065320@163.com)
@@ -27,13 +29,15 @@
 
 ---
 
-## 🎯 感兴趣的方向
+## 🎯 近期研究与技术关注 (Current Focus & Interests)
 
 <div align="center">
 
-| 🔬 Agent Harness & Evaluation | ⚙️ Agent Infrastructure & Runtime |
+| 🔬 Agent Harness & Evaluation | ☁️ Cloud-Native Agent Infra |
 | :--- | :--- |
-| • 智能体基准评测体系（Benchmarks & Eval）<br>• 真实动态交互环境与长程任务仿真<br>• 工具调用鲁棒性验证与自动对抗评测 | • 执行环境与安全沙箱（Runtime / Sandbox）<br>• 上下文持久化与 Memory 管理<br>• 多 Agent 协同中间件与并发调度底座 |
+| • **评测基准搭建**：构建面向长程任务的 Agent Evaluation Harness<br>• **动态交互评测**：真实环境仿真交互与能力边界探测<br>• **鲁棒性验证**：多工具协同评测与自动化对抗测试 | • **云原生底座**：探索基于 Kubernetes (K8s) 的分布式 Agent 基础设施<br>• **沙箱执行隔离**：构建安全、高吞吐的 Agent Runtime & Sandbox<br>• **调度编排中间件**：多 Agent 协同调度与上下文持久化管理 |
+| 🧠 Agent RL (Exploring) | 📱 On-Device & Edge Infra |
+| • **决策演进机制**：关注环境反馈驱动的 Agent 强化学习算法<br>• **前沿学术跟进**：探索推理决策对齐与自主演化机制<br>• *(保持浓厚学术兴趣，持续跟进与系统化学习中)* | • **端侧模型部署**：轻量级小模型 (SLM) 在移动端的低延迟推理<br>• **KV Cache 优化**：端侧注意力缓存压缩与显存高效调度<br>• **边缘智能体**：面向资源受限设备的原生 Agent 系统优化 |
 
 </div>
 
@@ -50,7 +54,7 @@
 [![AI & Frameworks](https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi&theme=dark)](https://skillicons.dev)
 
 #### Infra, Runtime & Environments
-[![Infra & Tools](https://skillicons.dev/icons?i=linux,docker,git,github,nginx,vscode&theme=dark)](https://skillicons.dev)
+[![Infra & Tools](https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,nginx,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
